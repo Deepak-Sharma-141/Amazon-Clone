@@ -35,7 +35,7 @@ Amazon-Clone/ │── index.html │── style.css │── images/   (all 
 ---
 
 ## 🌐 Live Demo
-👉 [View on GitHub Pages](https://Deepak-Sharma-141.github.io/Amazon-Clone/)  
+👉 [View on GitHub Pages](https://Deepak-Sharma-141.github.io/Amazon-Clone)  
 
 ---
 
